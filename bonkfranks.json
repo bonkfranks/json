@@ -8,6 +8,10 @@
   "background_color": "000000",
   "attributes": [
     {
+      "trait_type": "Floor",
+      "value": "9.7 SOL"
+    },
+    {
       "trait_type": "White List",
       "value": "Free"
     }
