@@ -1,0 +1,35 @@
+{
+  "name": "Bonk Franks WL",
+  "symbol": "BFranks",
+  "description": "Franks - Let the games begin $BONK.\nCongratulations. Your wallet address has earned WhiteList rights.\nMint for free now before your mint expires.👇",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://bonkfrank.netlify.app/",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "GxNeLH77GxP3E42cwXvoHxVVyB4133zHsZDkoEdiJsjg",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://bafybeiayxb5s4halqqktfkf25klbskqinbhc3m65ov3cfcaadmxoukoua4.ipfs.nftstorage.link/14.png",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "BFranks",
+    "family": "WhiteList"
+  },
+  "image": "https://bafybeiayxb5s4halqqktfkf25klbskqinbhc3m65ov3cfcaadmxoukoua4.ipfs.nftstorage.link/14.png"
+}
